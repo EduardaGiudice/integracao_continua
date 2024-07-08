@@ -1,7 +1,6 @@
 # Exemplo simples de integração contínua com teste de unidade utilizando o Jest
 
-# Autor: Fabrício G. M. de Carvalho, Ph. D.
-
+# Autor: Eduarda Rosa Giudice Mota
 Para executar o sistema:
 
 1. Na raiz do projeto, fora da pasta src/, execute os comandos:
